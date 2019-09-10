@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"shnop84047260": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}

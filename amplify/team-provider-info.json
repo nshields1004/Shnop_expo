@@ -1,0 +1,19 @@
+{
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "shnop-master-20190910164703-authRole",
+            "UnauthRoleArn": "arn:aws:iam::576741636064:role/shnop-master-20190910164703-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::576741636064:role/shnop-master-20190910164703-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "shnop-master-20190910164703-deployment",
+            "UnauthRoleName": "shnop-master-20190910164703-unauthRole",
+            "StackName": "shnop-master-20190910164703",
+            "StackId": "arn:aws:cloudformation:eu-west-1:576741636064:stack/shnop-master-20190910164703/3bec1cb0-d3e2-11e9-a14a-0a678be70e04"
+        },
+        "categories": {
+            "auth": {
+                "shnop84047260": {}
+            }
+        }
+    }
+}
